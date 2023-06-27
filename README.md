@@ -36,19 +36,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Rubber Ducky Scripts</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    Simple rubber ducky scripts to play around with.
   </p>
 </p>
 
@@ -74,11 +65,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Rubber Ducky Scripts][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+ Simple rubber ducky scripts to play around with. Keep in mind that those are just for training purposes and shall only be used on your devices. DON'T BE EVIL.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -108,7 +97,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+<!-- Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email -->
 
 Project Link: [https://github.com/CitrusPunk/rubber-ducky-scripts](https://github.com/CitrusPunk/rubber-ducky-scripts)
 
